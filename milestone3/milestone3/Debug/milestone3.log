@@ -1,0 +1,15 @@
+﻿  ErrorState.cpp
+c:\users\kevin\onedrive\documents\summer 2018 seneca\oop 244\milestones\milestone_2\milestone2\milestone2\errorstate.cpp(25): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\kevin\onedrive\documents\summer 2018 seneca\oop 244\milestones\milestone_2\milestone2\milestone2\errorstate.cpp(60): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+  ms3_tester.cpp
+  MyProduct.cpp
+c:\users\kevin\source\repos\milestone3\milestone3\errorstate.h(28): error C2039: 'ostream': is not a member of 'std'
+  c:\users\kevin\source\repos\milestone3\milestone3\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\kevin\source\repos\milestone3\milestone3\errorstate.h(28): error C2143: syntax error: missing ';' before '&'
+c:\users\kevin\source\repos\milestone3\milestone3\errorstate.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kevin\source\repos\milestone3\milestone3\errorstate.h(28): error C2059: syntax error: ','
+c:\users\kevin\source\repos\milestone3\milestone3\myproduct.cpp(14): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+  Generating Code...

@@ -1,0 +1,10 @@
+
+In line number 153 of your output:
+The output should be:
+ Expiry date (YYYY/MM/DD): 10/1/1
+But your output is: 
+Expiry date (YYYY/MM/DD): 10/1/1
+^
+|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(45), dec(69)

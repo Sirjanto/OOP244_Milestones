@@ -1,0 +1,28 @@
+Script started on Fri 03 Aug 2018 04:29:46 PM EDT
+]0;ssurjanto@mtrx-node01pd:~/OOP244_WS/milestone4[?1034h[ssurjanto@mtrx-node01pd milestone4]$ ms4
+Linear: one two 
+As is: 
+one
+two
+
+Enter the following: 
+three<ENTER>
+four<ENTER>
+Ctrl^D<ENTER>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+sku match
+Product < Perishable
+45|32|131|32
+113.5
+]0;ssurjanto@mtrx-node01pd:~/OOP244_WS/milestone4[ssurjanto@mtrx-node01pd milestone4]$ exit
+exit
+
+Script done on Fri 03 Aug 2018 04:30:02 PM EDT
